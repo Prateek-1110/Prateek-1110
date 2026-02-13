@@ -16,4 +16,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1110&theme=github-compact&hide_border=true"/>
 </p>
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/Prateek1110">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/neural_mystic">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prateek-1110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
