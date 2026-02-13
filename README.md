@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Prateek</h1>
+<h1 align="center">Hey there 👋, I'm Pratee Agraharik</h1>
 
 <h3 align="center">
 Full Stack Developer 💻 | Aspiring Data Analyst 📊
@@ -11,10 +11,10 @@ Full Stack Developer 💻 | Aspiring Data Analyst 📊
 I’m a Full Stack Developer with a growing passion for **Data Analytics and Data-Driven Systems**.  
 I enjoy working across the stack while building strong analytical foundations.
 
-- 📊 Strong grasp of **NumPy, Pandas, SQL & DBMS**
-- 🧠 Regular problem solver on **LeetCode, GFG & Codeforces**
-- 🚀 Interested in backend systems and data analysis workflows
-- 🎯 Currently transitioning deeper into Data Analytics
+- Strong grasp of **NumPy, Pandas, SQL & DBMS**
+- Regular problem solver on **LeetCode, GFG & Codeforces**
+- Interested in backend systems and data analysis workflows
+- Currently transitioning deeper into Data Analytics
 
 ---
 
