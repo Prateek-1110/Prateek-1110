@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there 👋, I'm Prateek Agrahari</h1>
 
 <h3 align="center">
@@ -37,17 +38,9 @@ I enjoy working across the stack while building strong analytical foundations.
 
 <h2 align="center">📊 Contribution Activity</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/prateek-1110/prateek-1110/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/prateek-1110/prateek-1110/output/github-snake.svg" />
-    <img alt="github-snake" 
-         src="https://raw.githubusercontent.com/prateek-1110/prateek-1110/output/github-snake.svg" />
-  </picture>
-</div>
->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1110&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
