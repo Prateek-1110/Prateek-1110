@@ -25,6 +25,9 @@
   <a href="https://instagram.com/neural_mystic">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+   <a href="mailto:prateek.agengg1110@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 <!-- <p align="center">
