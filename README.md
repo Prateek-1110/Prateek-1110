@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Prateek</h1>
 
-<!--
-**Prateek-1110/Prateek-1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🚀 Passionate Developer
+- 🌱 Currently learning DSA & AI
+- 🤝 Open to collaboration
 
-Here are some ideas to get you started:
+## 🛠 Language and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,python,mongodb,express,docker,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek-1110&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Prateek-1110&theme=radical)
