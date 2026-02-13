@@ -7,8 +7,9 @@
 
 ## 🛠 Language and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,python,mongodb,express,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,django,express,nodejs,python,cpp,react,docker,github,postman,vscode" />
 </p>
+
 
 
 <h2 align="center">📊 Contribution Activity</h2>
@@ -26,6 +27,6 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prateek-1110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+</p> -->
