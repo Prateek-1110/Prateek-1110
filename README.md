@@ -38,9 +38,10 @@ I enjoy working across the stack while building strong analytical foundations.
 
 <h2 align="center">📊 Contribution Activity</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1110&theme=github-compact&hide_border=true"/>
-</p>
+</p> -->
+![3D Contribution Graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
