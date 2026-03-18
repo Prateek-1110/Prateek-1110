@@ -41,7 +41,7 @@ I enjoy working across the stack while building strong analytical foundations.
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1110&theme=github-compact&hide_border=true"/>
 </p> -->
-![3D Contribution Graph](profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](profile-3d-contrib/profile-night-green.svg)
 
 ---
 
