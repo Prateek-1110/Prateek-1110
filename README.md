@@ -34,33 +34,18 @@ I enjoy working across the stack while building strong analytical foundations.
 - Libraries: **NumPy, Pandas**
 - Database: **SQL, DBMS Concepts**
 
-<!--- --- --->
+ --- 
 
-<!-- <h2 align="center">📊 Contribution Activity</h2> -->
+ <h2 align="center">📊 Contribution Activity</h2> 
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-1110&theme=github-compact&hide_border=true"/>
 </p> -->
-<!--- ![3D Contribution Graph](profile-3d-contrib/profile-night-green.svg) --->
+ ![3D Contribution Graph](profile-3d-contrib/profile-night-green.svg) 
 
-<!--- --- --->
----
+ --- 
 
-## 📊 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek-1110&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFD93D&line=FF6B6B&point=6BCB77" />
-</div>
-
----
-
-## ⚡ LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/prateekagr-1110?theme=dark&font=Fira%20Code&ext=activity&border=0" />
-</div>
-
----
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
