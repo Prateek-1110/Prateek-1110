@@ -1,8 +1,8 @@
 
-<h1 align="center">Hey there 👋, I'm Prateek Agrahari</h1>
+<h1 align="center">Hey there !!, I'm Prateek Agrahari</h1>
 
 <h3 align="center">
-Full Stack Developer 💻 | Aspiring Data Analyst 📊
+Aspiring Data Analyst | AI/ML engineer
 </h3>
 
 ---
